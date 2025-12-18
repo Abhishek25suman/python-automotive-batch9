@@ -1,3 +1,6 @@
+#---Calculator Program---
+# This program runs basic arithmetic operations on two numbers based on the user's input.
+
 def add(a, b):
     return a + b
 def sub(a, b):
@@ -9,6 +12,7 @@ def div(a, b):
 
 print("1.Add 2.Subtract 3.Multiply 4.Divide")
 choice = int(input("Enter choice: "))
+
 x = float(input("Enter first number: "))
 y = float(input("Enter second number: "))
 
@@ -21,4 +25,4 @@ elif choice == 3:
 elif choice == 4:
     print("Result:", div(x, y))
 else:
-    print("Invalid choice")
+    print("Invalid choice!")
