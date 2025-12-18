@@ -1,5 +1,5 @@
+# this program calculates and prints squares of numbers in a list.
 
-
-number= [3, 6, 9, 12, 15]
+number = [3, 6, 9, 12, 15]
 squares = [x**2 for x in number]
 print(squares)

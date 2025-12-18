@@ -11,7 +11,7 @@ def div(a, b):
     return a / b
 
 print("1.Add 2.Subtract 3.Multiply 4.Divide")
-choice = int(input("Enter choice: "))
+choice = int(input("Enter choice (1-4): "))
 
 x = float(input("Enter first number: "))
 y = float(input("Enter second number: "))
