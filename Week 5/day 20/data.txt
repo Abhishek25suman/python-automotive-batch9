@@ -1,0 +1,6 @@
+car_name=BMW X5
+mileage=12
+fuel_type=Diesel
+fuel_consumption=8.5
+engine=2993cc
+price=9500000
