@@ -1,0 +1,8 @@
+<Car>
+  <car_name>BMW X5</car_name>
+  <mileage>12</mileage>
+  <fuel_type>Diesel</fuel_type>
+  <fuel_consumption>8.5</fuel_consumption>
+  <engine>2993cc</engine>
+  <price>9500000</price>
+</Car>
